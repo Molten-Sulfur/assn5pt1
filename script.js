@@ -41,7 +41,7 @@ require([
           type: "fields",
           fieldInfos: [{
             fieldName: "NHD_NUM",
-            label: "Neighborhood: ",
+            label: "Neighborhood number: ",
             visible: true
           }]
         }]
